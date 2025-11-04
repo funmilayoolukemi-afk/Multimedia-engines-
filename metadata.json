@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Multimedia Suite",
+  "description": "An all-in-one application to explore the capabilities of the Gemini API, including chat, image/video generation and analysis, real-time voice conversations, and grounded generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
